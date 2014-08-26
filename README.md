@@ -1,2 +1,2 @@
-lamdas
+lambdas
 ======
